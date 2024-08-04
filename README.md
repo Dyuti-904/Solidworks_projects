@@ -1,1 +1,1 @@
-# Solidworks_projects
+SolidWorks is popular for its intuitive interface, parametric design, and integrated simulation tools. It offers comprehensive modeling capabilities, manages complex assemblies, and supports customization. Apart from modelling of parts and creating assemblies, solidworks also poses a atrong tool for simulation, giving the engineer an idea of the real life situation where the model created will be used.
